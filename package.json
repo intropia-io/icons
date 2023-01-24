@@ -2,7 +2,7 @@
   "name": "@intropia-io/icons",
   "version": "1.0.0",
   "description": "intropia prisma schema",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/intropia-io/icons.git"
@@ -48,7 +48,6 @@
     "tslint-config-prettier": "^1.18.0"
   },
   "files": [
-    "dist",
-    "package.json"
+    "dist/**"
   ]
 }
