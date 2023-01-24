@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "target": "es6",
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "./dist",
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "src/index.ts",
+        "src/objects",
+        "src/components",
+    ],
+    "exclude": [
+        "node_modules",
+        "**/__tests__/*"
+    ],
+    "hooks": [
+        "copy-files"
+    ]
+}

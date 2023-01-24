@@ -1,0 +1,54 @@
+{
+  "name": "@intropia-io/icons",
+  "version": "1.0.0",
+  "description": "intropia prisma schema",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/intropia-io/icons.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json",
+    "storybook": "cross-env NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006",
+    "build-storybook": "cross-env NODE_OPTIONS=--openssl-legacy-provider build-storybook"
+  },
+  "author": "Oleksii Sysoiev <bostonleek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intropia-io/icons/issues"
+  },
+  "homepage": "https://github.com/intropia-io/icons#readme",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "publishConfig": {
+    "@intropia-io:registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@storybook/addon-actions": "^6.5.15",
+    "@storybook/addon-essentials": "^6.5.15",
+    "@storybook/addon-interactions": "^6.5.15",
+    "@storybook/addon-links": "^6.5.15",
+    "@storybook/builder-webpack4": "^6.5.15",
+    "@storybook/manager-webpack4": "^6.5.15",
+    "@storybook/react": "^6.5.15",
+    "@storybook/testing-library": "^0.0.13",
+    "babel-loader": "^8.3.0",
+    "cross-env": "^7.0.3",
+    "prettier": "^2.8.3",
+    "tsc-hooks": "1.1.1",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0"
+  },
+  "files": [
+    "dist",
+    "package.json"
+  ]
+}
