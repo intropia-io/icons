@@ -62,6 +62,3 @@ export { UserCheck } from "./UserCheck";
 export { UserVoice } from "./UserVoice";
 export { Verified } from "./Verified";
 export { Zap } from "./Zap";
-
-import * as icons from "./index";
-export type iconTypes = keyof typeof icons;
