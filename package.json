@@ -12,7 +12,7 @@
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
     "lint": "tslint -p tsconfig.json",
     "storybook": "cross-env NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006",
-    "build-storybook": "cross-env NODE_OPTIONS=--openssl-legacy-provider build-storybook"
+    "build-storybook": "cross-env NODE_OPTIONS=--openssl-legacy-provider build-storybook -o, --output-dir docs"
   },
   "author": "Oleksii Sysoiev <bostonleek@gmail.com>",
   "license": "MIT",
