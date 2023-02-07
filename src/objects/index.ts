@@ -56,6 +56,7 @@ export { Station } from "./Station";
 export { Support } from "./Support";
 export { Tags } from "./Tags";
 export { Telegram } from "./Telegram";
+export { Trending } from "./Trending";
 export { Twitter } from "./Twitter";
 export { User } from "./User";
 export { UserCheck } from "./UserCheck";
