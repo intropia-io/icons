@@ -38,7 +38,7 @@ export const IconsList: React.FC<IconProps> = ({
                     lineHeight: "16px",
                     paddingBottom: "10px",
                     paddingTop: "5px"
-                }}>{`<Icon size="${size}" color="${color}" refIcon="${value}" />`}</p>
+                }}>{`<IconComponent size="${size}" color="${color}" refIcon="${value}" />`}</p>
             </div>
         })
     }
