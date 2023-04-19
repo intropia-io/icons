@@ -44,6 +44,7 @@ export { Link } from "./Link";
 export { Linkedin } from "./Linkedin";
 export { List } from "./List";
 export { ListPlus } from "./ListPlus";
+export { Loader } from "./Loader";
 export { Loading } from "./Loading";
 export { Logout } from "./Logout";
 export { Mark } from "./Mark";
