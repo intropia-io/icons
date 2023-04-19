@@ -1,6 +1,6 @@
 {
   "name": "@intropia-io/icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "intropia prisma schema",
   "main": "dist/index.js",
   "repository": {
