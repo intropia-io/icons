@@ -2,6 +2,7 @@ export { Archive } from "./Archive";
 export { Arrow } from "./Arrow";
 export { ArrowShort } from "./ArrowShort";
 export { Atom } from "./Atom";
+export { Bolt } from "./Bolt";
 export { Box } from "./Box";
 export { Bug } from "./Bug";
 export { Calendar } from "./Calendar";
@@ -70,3 +71,4 @@ export { UserCheck } from "./UserCheck";
 export { UserVoice } from "./UserVoice";
 export { Verified } from "./Verified";
 export { Zap } from "./Zap";
+
