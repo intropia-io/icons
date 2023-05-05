@@ -2,6 +2,7 @@ export { Archive } from "./Archive";
 export { Arrow } from "./Arrow";
 export { ArrowShort } from "./ArrowShort";
 export { Atom } from "./Atom";
+export { Blog } from "./Blog";
 export { Bolt } from "./Bolt";
 export { Box } from "./Box";
 export { Bug } from "./Bug";
