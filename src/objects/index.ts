@@ -30,6 +30,7 @@ export { Email } from "./Email";
 export { Error } from "./Error";
 export { Event } from "./Event";
 export { External } from "./External";
+export { File } from "./File";
 export { Filter } from "./Filter";
 export { Filters } from "./Filters";
 export { Frame } from "./Frame";
