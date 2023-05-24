@@ -50,6 +50,7 @@ export { ListPlus } from "./ListPlus";
 export { Loader } from "./Loader";
 export { Loading } from "./Loading";
 export { Logout } from "./Logout";
+export { Magnet } from "./Magnet";
 export { Mark } from "./Mark";
 export { Medium } from "./Medium";
 export { Metamask } from "./Metamask";
