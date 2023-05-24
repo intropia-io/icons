@@ -24,6 +24,7 @@ export { Customize } from "./Customize";
 export { Detail } from "./Detail";
 export { Dialpad } from "./Dialpad";
 export { Discord } from "./Discord";
+export { DollarCircle } from "./DollarCircle";
 export { Dynasty } from "./Dynasty";
 export { Edit } from "./Edit";
 export { Email } from "./Email";
