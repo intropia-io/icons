@@ -62,6 +62,7 @@ export { Quest } from "./Quest";
 export { Reddit } from "./Reddit";
 export { Report } from "./Report";
 export { Search } from "./Search";
+export { ShieldQuarter } from "./ShieldQuarter";
 export { Slider } from "./Slider";
 export { Sort } from "./Sort";
 export { Station } from "./Station";
