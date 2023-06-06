@@ -34,6 +34,7 @@ export { External } from "./External";
 export { File } from "./File";
 export { Filter } from "./Filter";
 export { Filters } from "./Filters";
+export { FlagAlt } from "./FlagAlt";
 export { Frame } from "./Frame";
 export { FrameOut } from "./FrameOut";
 export { Geo } from "./Geo";
