@@ -39,6 +39,7 @@ export { Filters } from "./Filters";
 export { FlagAlt } from "./FlagAlt";
 export { Frame } from "./Frame";
 export { FrameOut } from "./FrameOut";
+export { Fullscreen } from "./Fullscreen";
 export { Geo } from "./Geo";
 export { Github } from "./Github";
 export { Globe } from "./Globe";

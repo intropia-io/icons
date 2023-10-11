@@ -1,6 +1,6 @@
 {
   "name": "@intropia-io/icons",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "intropia prisma schema",
   "main": "dist/index.js",
   "repository": {
@@ -37,6 +37,7 @@
     "@storybook/addon-interactions": "^6.5.15",
     "@storybook/addon-links": "^6.5.15",
     "@storybook/builder-webpack4": "^6.5.15",
+    "@storybook/cli": "^7.4.6",
     "@storybook/manager-webpack4": "^6.5.15",
     "@storybook/react": "^7.0.27",
     "@storybook/testing-library": "^0.0.13",
